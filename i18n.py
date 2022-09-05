@@ -11,4 +11,3 @@ def _f(r):
 def i18n(s: str) -> str:
     s = re.sub(r'\w+', _f, s)
     return s
-print(i18n(s))
