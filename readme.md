@@ -38,7 +38,7 @@ t5t A3e `w5t p6s or c10n?'
 
 首先你要有一个Python。
 
-把这个仓库clone回去，然后`import i18n`就可以啦，接口只有一个，是`i18n.i18n`。
+把这个仓库clone回去，然后`import i7h`就可以啦，接口只有一个，是`i7h.i18n`。
 
 ```python
 def i18n(s: str) -> str:
